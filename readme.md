@@ -14,8 +14,10 @@ The dataset can be downloaded [here](https://d17h27t6h515a5.cloudfront.net/tophe
 
 ### Preprocessed files & train model
 You can download the already preprocessed files and use them directly to train the model:<br/>
-	* [labels](https://drive.google.com/open?id=13Y8OPTgiuxxTbcHE1H8OW5GboC8ppyxL)
-	* [preprocessed](https://drive.google.com/open?id=1Fk6Uq-MF_SbmSpvaPfKc1fJbolLO_6Xj)<br />
+
+* [labels](https://drive.google.com/open?id=13Y8OPTgiuxxTbcHE1H8OW5GboC8ppyxL)
+* [preprocessed](https://drive.google.com/open?id=1Fk6Uq-MF_SbmSpvaPfKc1fJbolLO_6Xj)
+	
 If the pretrained model `model_adam_mse.h5` is used, only the step 4 of the procedure bellow will be left to execute.
 
 
